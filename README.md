@@ -14,8 +14,8 @@ This site showcases my projects, skills, and experience. Over time, I’ll expan
 - **Styling:** Tailwind CSS  
 
 ## 📂 Projects  
-🔹 [MathBlitz](https://harshalpawar.com/mathblitz) - A fast-paced math game  
-🔹 [LiftLog](https://harshalpawar.com/liftlog) - A simple workout tracker  
+🔹 [MathBlitz](https://mathblitz.harshalpawar.com) - A fast-paced math game  
+🔹 [LiftLog](https://liftlog.harshalpawar.com) - A simple workout tracker  
 
 ## 🚀 Setup & Development  
 To run the site locally:  
