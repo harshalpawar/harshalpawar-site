@@ -41,7 +41,7 @@ export default function Home() {
         <h2 className="text-3xl font-semibold mb-8 text-center">Featured Projects</h2>
         <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
           <div className="p-6 bg-gray-800/50 rounded-xl backdrop-blur-sm hover:bg-gray-800/70 transition-all duration-300 border border-gray-700/50 hover:border-blue-500/50">
-            <h3 className="text-2xl font-bold mb-3">MathBlitz</h3>
+            <h3 className="text-2xl font-bold mb-3">⚡MathBlitz</h3>
             <p className="text-gray-400 mb-4">A fast-paced math game to test your skills.</p>
             <a 
               href="https://mathblitz.harshalpawar.com" 
@@ -55,7 +55,7 @@ export default function Home() {
             </a>
           </div>
           <div className="p-6 bg-gray-800/50 rounded-xl backdrop-blur-sm hover:bg-gray-800/70 transition-all duration-300 border border-gray-700/50 hover:border-blue-500/50">
-            <h3 className="text-2xl font-bold mb-3">LiftLog</h3>
+            <h3 className="text-2xl font-bold mb-3">🏋️LiftLog</h3>
             <p className="text-gray-400 mb-4">A workout tracking app for lifters.</p>
             <a 
               href="https://liftlog.harshalpawar.com" 
