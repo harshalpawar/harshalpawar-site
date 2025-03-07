@@ -21,12 +21,12 @@ export default function Home() {
           <div className="p-4 bg-gray-800 rounded-lg">
             <h3 className="text-xl font-bold">MathBlitz</h3>
             <p className="text-gray-400">A fast-paced math game to test your skills.</p>
-            <a href="https://harshalpawar.com/mathblitz" target="_blank" className="text-blue-400 hover:underline">Live Demo</a>
+            <a href="https://mathblitz.harshalpawar.com" target="_blank" className="text-blue-400 hover:underline">Live Demo</a>
           </div>
           <div className="p-4 bg-gray-800 rounded-lg">
             <h3 className="text-xl font-bold">LiftLog</h3>
             <p className="text-gray-400">A workout tracking app for lifters.</p>
-            <a href="https://harshalpawar.com/liftlog" target="_blank" className="text-blue-400 hover:underline">Live Demo</a>
+            <a href="https://liftlog.harshalpawar.com" target="_blank" className="text-blue-400 hover:underline">Live Demo</a>
           </div>
         </div>
       </section>
